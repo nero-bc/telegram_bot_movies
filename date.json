@@ -1,0 +1,95 @@
+{
+    "films": [
+      {
+        "id": 1,
+        "name": "Пірати Карибського моря: Прокляття Чорної перлини",
+        "year": 2003,
+        "director": "Гор Вербінскі",
+        "genre": ["Пригоди", "Фентезі"],
+        "rating": 8.0,
+        "poster": "https://s8.vcdn.biz/static/f/1100477771/image.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Зоряні війни. Епізод IV: Нова надія",
+        "year": 1977,
+        "director": "Джордж Лукас",
+        "genre": ["Наукова фантастика", "Пригоди"],
+        "rating": 8.6,
+        "poster": "https://kinovezha.com/posters/503.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Втеча з Шоушенка",
+        "year": 1994,
+        "director": "Френк Дарабонт",
+        "genre": ["Драма", "Кримінал"],
+        "rating": 9.3,
+        "poster": "https://th.bing.com/th/id/R.3826456f023d6d9600206a9b70b06e7e?rik=23tsNkSq4gvn2Q&riu=http%3a%2f%2fjacost.at.ua%2f_ld%2f5%2f53844218.jpg&ehk=9%2f6wdQNOJYdNxtT35aidzS4MTNdSbnK9zorZbxNn0xM%3d&risl=&pid=ImgRaw&r=0"
+      },
+      {
+        "id": 4,
+        "name": "Хрещений батько",
+        "year": 1972,
+        "director": "Френсіс Форд Коппола",
+        "genre": ["Кримінал", "Драма"],
+        "rating": 9.2,
+        "poster": "https://kinotron.top/uploads/posts/2022-01/164362613886_the_godfather.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Початок",
+        "year": 2010,
+        "director": "Крістофер Нолан",
+        "genre": ["Наукова фантастика", "Бойовик"],
+        "rating": 8.8,
+        "poster": "https://th.bing.com/th/id/R.cd5203c4c7fceb1968893eb8f4061979?rik=ZCEIFcWsauweOA&riu=http%3a%2f%2fjacost.at.ua%2f_ld%2f3%2f09701724.jpg&ehk=RMk18x1aRcBoxyyhaYrWsWPpfwT930Wg3lNTOYEcvhY%3d&risl=&pid=ImgRaw&r=0"
+      },
+      {
+        "id": 6,
+        "name": "Темний лицар",
+        "year": 2008,
+        "director": "Крістофер Нолан",
+        "genre": ["Бойовик", "Кримінал"],
+        "rating": 9.0,
+        "poster": "https://th.bing.com/th/id/R.1c34c494158de73b18e61aa686b57745?rik=kV53NjQoNnHGqA&riu=http%3a%2f%2ffainekino.at.ua%2fposts%2f1%2f1211181230051612.jpg&ehk=CfRfDCGA8hFfJ7Lk8By40TIaZtWPxG2KS%2fm2kcPn8uY%3d&risl=&pid=ImgRaw&r=0"
+      },
+      {
+        "id": 7,
+        "name": "Форрест Гамп",
+        "year": 1994,
+        "director": "Роберт Земекіс",
+        "genre": ["Драма", "Романтика"],
+        "rating": 8.8,
+        "poster": "https://th.bing.com/th/id/OIP.saCYKOUXF1k3Kt5zEf_U6wHaLH?pid=ImgDet&rs=1"
+      },
+      {
+        "id": 8,
+        "name": "Парк юрського періоду",
+        "year": 1993,
+        "director": "Стівен Спільберг",
+        "genre": ["Пригоди", "Наукова фантастика"],
+        "rating": 8.1,
+        "poster": "https://th.bing.com/th/id/R.827ee4f5a3db874e8f95c4c51a84eb7a?rik=0dkNK5lzI4E0Qg&pid=ImgRaw&r=0"
+      },
+      {
+        "id": 9,
+        "name": "Матриця",
+        "year": 1999,
+        "director": "Вачовскі",
+        "genre": ["Бойовик", "Наукова фантастика"],
+        "rating": 8.7,
+        "poster": "https://th.bing.com/th/id/R.622980c384021be792e0b11d10285a3d?rik=En9F2ZEG0O4H8w&riu=http%3a%2f%2fkinomania.com.ua%2fsites%2fdefault%2ffiles%2fstyles%2fposterpoppup%2fpublic%2fcustominfo%2fposters%2fmatrix_v_dd_ka_ukr.jpg%3fitok%3dfd1XnTlD&ehk=T%2f0cIaXmVmQzetx5CE39Tmb1Ig4w9FPIcrM3vZDnZi0%3d&risl=&pid=ImgRaw&r=0"
+      },
+      {
+        "id": 10,
+        "name": "Гладіатор",
+        "year": 2000,
+        "director": "Рідлі Скотт",
+        "genre": ["Бойовик", "Драма"],
+        "rating": 8.5,
+        "poster": "https://th.bing.com/th/id/R.a941931ef9d77b5ccb1d8cf284cf3690?rik=x0WQMreyZFQTPA&pid=ImgRaw&r=0"
+      }
+    ]
+  }
+  
